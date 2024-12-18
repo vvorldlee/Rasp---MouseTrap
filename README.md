@@ -13,7 +13,8 @@
 
 HTML, JavaScript, Python 세 언어를 사용했고 라즈베리파이를 이용해 제작했습니다.
 
-
+### <회로도>
+- ![회로도](https://github.com/vvorldlee/Rasp---MouseTrap/blob/main/img/%ED%9A%8C%EB%A1%9C%EB%8F%84.png)
 
 ### <구현 방법>
 
@@ -24,7 +25,7 @@ HTML, JavaScript, Python 세 언어를 사용했고 라즈베리파이를 이용
 - 조도 센서 – GPIO10, GPIO9, GPIO11, GPIO8
 - 모터 드라이버 – GPIO6, GPIO13, GPIO19
 - 카메라 – 라즈베리파이 USB
-- 소프트웨어 부분
+- 소프트웨어 부분 ![디렉토리](https://github.com/vvorldlee/Rasp---MouseTrap/blob/main/img/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC.png)
 
 ### <소감>
 
